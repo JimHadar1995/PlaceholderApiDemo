@@ -1,0 +1,45 @@
+2019-04-03 00:37:16.4049 Error Parsing configuration from D:\Проекты\PlaceholderApiDemo\PlaceholderApiDemo.WebApi\bin\Debug\netcoreapp2.2\NLog.config failed. Exception: NLog.NLogConfigurationException: Exception when parsing D:\Проекты\PlaceholderApiDemo\PlaceholderApiDemo.WebApi\bin\Debug\netcoreapp2.2\NLog.config.  ---> NLog.NLogConfigurationException: Target 'blackhole' not found for logging rule: Microsoft.*.
+   at NLog.Config.LoggingConfigurationParser.ParseLoggingRuleTargets(String writeTargets, LoggingRule rule)
+   at NLog.Config.LoggingConfigurationParser.ParseRuleElement(ILoggingConfigurationElement loggerElement)
+   at NLog.Config.LoggingConfigurationParser.ParseRulesElement(ILoggingConfigurationElement rulesElement, IList`1 rulesCollection)
+   at NLog.Config.LoggingConfigurationParser.LoadConfig(ILoggingConfigurationElement nlogConfig, String basePath)
+   at NLog.Config.XmlLoggingConfiguration.ParseNLogElement(ILoggingConfigurationElement nlogElement, String filePath, Boolean autoReloadDefault)
+   at NLog.Config.XmlLoggingConfiguration.Initialize(XmlReader reader, String fileName, Boolean ignoreErrors)
+   --- End of inner exception stack trace ---
+2019-04-03 00:37:16.4148 Warn Failed loading config from D:\Проекты\PlaceholderApiDemo\PlaceholderApiDemo.WebApi\bin\Debug\netcoreapp2.2\NLog.config. Invalid XML?
+2019-04-03 00:37:42.4676 Error Parsing configuration from D:\Проекты\PlaceholderApiDemo\PlaceholderApiDemo.WebApi\bin\Debug\netcoreapp2.2\NLog.config failed. Exception: NLog.NLogConfigurationException: Exception when parsing D:\Проекты\PlaceholderApiDemo\PlaceholderApiDemo.WebApi\bin\Debug\netcoreapp2.2\NLog.config.  ---> NLog.NLogConfigurationException: Target 'blackhole' not found for logging rule: Microsoft.*.
+   at NLog.Config.LoggingConfigurationParser.ParseLoggingRuleTargets(String writeTargets, LoggingRule rule)
+   at NLog.Config.LoggingConfigurationParser.ParseRuleElement(ILoggingConfigurationElement loggerElement)
+   at NLog.Config.LoggingConfigurationParser.ParseRulesElement(ILoggingConfigurationElement rulesElement, IList`1 rulesCollection)
+   at NLog.Config.LoggingConfigurationParser.LoadConfig(ILoggingConfigurationElement nlogConfig, String basePath)
+   at NLog.Config.XmlLoggingConfiguration.ParseNLogElement(ILoggingConfigurationElement nlogElement, String filePath, Boolean autoReloadDefault)
+   at NLog.Config.XmlLoggingConfiguration.Initialize(XmlReader reader, String fileName, Boolean ignoreErrors)
+   --- End of inner exception stack trace ---
+2019-04-03 00:37:42.4713 Warn Failed loading config from D:\Проекты\PlaceholderApiDemo\PlaceholderApiDemo.WebApi\bin\Debug\netcoreapp2.2\NLog.config. Invalid XML?
+2019-04-03 00:38:34.1232 Error Parsing configuration from D:\Проекты\PlaceholderApiDemo\PlaceholderApiDemo.WebApi\bin\Debug\netcoreapp2.2\NLog.config failed. Exception: NLog.NLogConfigurationException: Exception when parsing D:\Проекты\PlaceholderApiDemo\PlaceholderApiDemo.WebApi\bin\Debug\netcoreapp2.2\NLog.config.  ---> NLog.NLogConfigurationException: Target 'blackhole' not found for logging rule: Microsoft.*.
+   at NLog.Config.LoggingConfigurationParser.ParseLoggingRuleTargets(String writeTargets, LoggingRule rule)
+   at NLog.Config.LoggingConfigurationParser.ParseRuleElement(ILoggingConfigurationElement loggerElement)
+   at NLog.Config.LoggingConfigurationParser.ParseRulesElement(ILoggingConfigurationElement rulesElement, IList`1 rulesCollection)
+   at NLog.Config.LoggingConfigurationParser.LoadConfig(ILoggingConfigurationElement nlogConfig, String basePath)
+   at NLog.Config.XmlLoggingConfiguration.ParseNLogElement(ILoggingConfigurationElement nlogElement, String filePath, Boolean autoReloadDefault)
+   at NLog.Config.XmlLoggingConfiguration.Initialize(XmlReader reader, String fileName, Boolean ignoreErrors)
+   --- End of inner exception stack trace ---
+2019-04-03 00:38:34.1273 Warn Failed loading config from D:\Проекты\PlaceholderApiDemo\PlaceholderApiDemo.WebApi\bin\Debug\netcoreapp2.2\NLog.config. Invalid XML?
+2019-04-03 00:39:50.0744 Error Parsing configuration from D:\Проекты\PlaceholderApiDemo\PlaceholderApiDemo.WebApi\bin\Debug\netcoreapp2.2\NLog.config failed. Exception: NLog.NLogConfigurationException: Exception when parsing D:\Проекты\PlaceholderApiDemo\PlaceholderApiDemo.WebApi\bin\Debug\netcoreapp2.2\NLog.config.  ---> NLog.NLogConfigurationException: Target 'blackhole' not found for logging rule: Microsoft.*.
+   at NLog.Config.LoggingConfigurationParser.ParseLoggingRuleTargets(String writeTargets, LoggingRule rule)
+   at NLog.Config.LoggingConfigurationParser.ParseRuleElement(ILoggingConfigurationElement loggerElement)
+   at NLog.Config.LoggingConfigurationParser.ParseRulesElement(ILoggingConfigurationElement rulesElement, IList`1 rulesCollection)
+   at NLog.Config.LoggingConfigurationParser.LoadConfig(ILoggingConfigurationElement nlogConfig, String basePath)
+   at NLog.Config.XmlLoggingConfiguration.ParseNLogElement(ILoggingConfigurationElement nlogElement, String filePath, Boolean autoReloadDefault)
+   at NLog.Config.XmlLoggingConfiguration.Initialize(XmlReader reader, String fileName, Boolean ignoreErrors)
+   --- End of inner exception stack trace ---
+2019-04-03 00:39:50.0744 Warn Failed loading config from D:\Проекты\PlaceholderApiDemo\PlaceholderApiDemo.WebApi\bin\Debug\netcoreapp2.2\NLog.config. Invalid XML?
+2019-04-03 00:44:38.3618 Error Parsing configuration from D:\Проекты\PlaceholderApiDemo\PlaceholderApiDemo.WebApi\bin\Debug\netcoreapp2.2\NLog.config failed. Exception: NLog.NLogConfigurationException: Exception when parsing D:\Проекты\PlaceholderApiDemo\PlaceholderApiDemo.WebApi\bin\Debug\netcoreapp2.2\NLog.config.  ---> NLog.NLogConfigurationException: Target 'blackhole' not found for logging rule: Microsoft.*.
+   at NLog.Config.LoggingConfigurationParser.ParseLoggingRuleTargets(String writeTargets, LoggingRule rule)
+   at NLog.Config.LoggingConfigurationParser.ParseRuleElement(ILoggingConfigurationElement loggerElement)
+   at NLog.Config.LoggingConfigurationParser.ParseRulesElement(ILoggingConfigurationElement rulesElement, IList`1 rulesCollection)
+   at NLog.Config.LoggingConfigurationParser.LoadConfig(ILoggingConfigurationElement nlogConfig, String basePath)
+   at NLog.Config.XmlLoggingConfiguration.ParseNLogElement(ILoggingConfigurationElement nlogElement, String filePath, Boolean autoReloadDefault)
+   at NLog.Config.XmlLoggingConfiguration.Initialize(XmlReader reader, String fileName, Boolean ignoreErrors)
+   --- End of inner exception stack trace ---
+2019-04-03 00:44:38.3618 Warn Failed loading config from D:\Проекты\PlaceholderApiDemo\PlaceholderApiDemo.WebApi\bin\Debug\netcoreapp2.2\NLog.config. Invalid XML?
